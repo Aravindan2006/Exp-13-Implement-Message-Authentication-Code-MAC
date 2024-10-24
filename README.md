@@ -1,4 +1,9 @@
 # Exp-13-Implement-Message-Authentication-Code-MAC
+
+###  REG N0 : 212223240012
+###  NAME : Aravindan D
+
+
 ## AIM:
 To implement the Message Authentication Code (MAC) algorithm in C for ensuring the integrity and authenticity of a message.
 
@@ -90,7 +95,8 @@ int main() {
 ```
 ## OUTPUT:
 
-![cry exp13](https://github.com/user-attachments/assets/c961d078-4210-40d7-a328-d6d4092cc83e)
+![image](https://github.com/user-attachments/assets/561c0a16-b1a8-4ff3-a722-3815c2c7b518)
+
 
 
 ## RESULT:
